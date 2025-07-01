@@ -1,3 +1,5 @@
 # fullstacktb
 This is my first fullstack repo guided by trailbliz
-instructor vinay[day2]
+
+instructor navyateju[day6]
+some random text
