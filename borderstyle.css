@@ -1,0 +1,17 @@
+.one{border-style: dotted;}
+.two{border-style:dashed;}
+.three{border-style:ridge;}
+.four{border-style: double;
+border-width: medium;}
+.five{border-style: unset;}
+.six{border-style:outset;}
+.seven{border-style: solid;
+}
+.eight{border-style: none;
+}
+.nine{border-style: inset;}
+.ten{border-style: hidden;}
+.eleven{border-style: groove;}
+h1.one{border-style: double;}/* we need to use element name when the class have same value...
+otherwise the last one will override the earliar style */
+/*syntax: element.class  */
